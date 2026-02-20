@@ -19,8 +19,8 @@ Compatibility table with different types of vehicle files:
 
 |      Type          |Support                         | Folders                         |
 |----------------|-------------------------------|-----------------------------|
-|Addon|`YES`            |  Steam & DATA   |
-|Replace          |`YES`            |    Only  Steam      |
-|MLO          |`NO`|Unsupported|
+|Addon|`YES`|  Steam & DATA   |
+|Replace|`YES`|    Only  Steam      |
+|MLO|`NO`|   Unsupported   |
 
 
